@@ -42,7 +42,9 @@ build/Release
 _src/
 fonts/
 libs/
-# img/
+
+# Gitignore
+.gitignore
 
 # Dependency directories
 node_modules/
