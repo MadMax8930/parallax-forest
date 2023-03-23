@@ -44,7 +44,7 @@ fonts/
 libs/
 
 # Gitignore
-.gitignore
+gitignore
 
 # Dependency directories
 node_modules/
