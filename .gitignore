@@ -42,7 +42,7 @@ build/Release
 _src/
 fonts/
 libs/
-img/
+# img/
 
 # Dependency directories
 node_modules/
